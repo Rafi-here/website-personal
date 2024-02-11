@@ -9,8 +9,7 @@
 <body>
     <center>
     <h2>PEMANFAATAN INTERNET DAN MULTIMEDIA DALAM PEMBELAJARAN DI SEKOLAH: Antara peluang dan Tantangan</h2>
-	  <p id="awal">Oleh : Rafi</p>
-	  <h2>Kata Pengantar</h2>
+	  <h2 id"awal">Kata Pengantar</h2>
          <img src="bppi.png"/>
 	  </center>
     <p>Kami mohon maaf jika di dalam makalah ini terdapat banyak kesalahan dan kekurangan, karena kesempurnaan hanya milik Yang Maha Kuasa yaitu Allah SWT, dan kekurangan pasti milik kita sebagai manusia. Semoga Makalah Internet ini dapat bermanfaat bagi kita semuanya.</p>
